@@ -16,9 +16,11 @@ including custom currency names and UI text.
 - Simple and readable conversion logic
 
 ## Screenshots
-![Currency Conversion – Athena to Demeter](screenshots/main.png)
-![Currency Conversion – Athena to Demeter (Filled State)](screenshots/main2.png)
-![Currency Conversion – Dionysos to Hermes](screenshots/main3.png)
+<p float="left">
+  <img src="screenshots/main.png" width="250" />
+  <img src="screenshots/main2.png" width="250" />
+  <img src="screenshots/main3.png" width="250" />
+</p>
 
 ## Built With
 - Swift
