@@ -1,17 +1,37 @@
 # Mythology Currency Converter
 
-This project was built as part of a learning process based on a tutorial.
-The original concept was adapted and redesigned with a mythology-based theme,
-including custom UI text and currency naming.
+A mythology-inspired iOS currency converter built with SwiftUI.
+This app allows users to convert between fictional currencies named after mythological gods.
+
+## Overview
+The goal of this project was to practice modern iOS development using SwiftUI
+while building a clean, simple, and themed mobile application.
+The original idea was adapted and redesigned with a mythology-based concept,
+including custom currency names and UI text.
 
 ## Features
-- Mythology-inspired currencies
-- Simple currency conversion logic
-- Clean and minimal UI
+- SwiftUI-based navigation and screen flow
+- Conversion between four mythological currencies
+- Clean and intuitive user interface
+- Simple and readable conversion logic
 
-## Notes
-This is a learning project and will be expanded in future versions.
+## Screenshots
+![Currency Conversion – Athena to Demeter](screenshots/main.png)
+![Currency Conversion – Athena to Demeter (Filled State)](screenshots/main2.png)
+![Currency Conversion – Dionysos to Hermes](screenshots/main3.png)
+
+## Built With
+- Swift
+- SwiftUI
+- Xcode
+
+## About the Project
+This project was built as a personal learning exercise focused on understanding
+SwiftUI fundamentals, view composition, and state-driven UI.
+The app was customized beyond the original tutorial concept to reflect a
+mythology-inspired theme and creative design choices.
 
 ## Credits
-This project was inspired by a Udemy course by Kenneth Jones.
-The tutorial was adapted and customized with a mythology-based concept.
+Inspired by a Udemy course by **Kenneth Jones**.
+This project was adapted and extended as part of my iOS learning journey.
+
